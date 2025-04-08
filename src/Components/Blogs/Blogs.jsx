@@ -3,7 +3,7 @@ import Blog from '../Blog/Blog';
 
  
 
-const Blogs = () => {
+const Blogs = ({handleBookMark}) => {
   
    const [blogs,setBlogs]=useState([]);
 
@@ -20,7 +20,7 @@ const Blogs = () => {
       <h1 className='text-2xl font-bold'>Total Blogs:{blogs.length}</h1>
       <div className='grid grid-cols-2'>
         {
-          blogs.map(blog => <Blog key={blog.id} blog={blog}></Blog>)
+          blogs.map(blog => <Blog key={blog.id} blog={blog} handleBookMark={handleBookMark}></Blog>)
         }
       </div>
     </div>
