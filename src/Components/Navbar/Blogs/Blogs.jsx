@@ -16,7 +16,7 @@ const Blogs = () => {
 
   return (
     <div>
-      
+      <h1 className='text-2xl font-bold'>Total Blogs:{blogs.length}</h1>
     </div>
   );
 };
