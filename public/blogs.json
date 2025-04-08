@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/sp4vZY5j/coverpng1.png",
+    "title": "Journey Through the Stars",
+    "author_img":"https://i.ibb.co.com/ymSC853D/autorpng-1.webp",
+    "author": "Sophia Rivers",
+    "posted_date": "2025-04-01",
+    "reading_time": "8 min",
+    "hashtags": ["#space", "#adventure", "#stars"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/bgNC7HZF/coverpng2.png",
+    "title": "The Hidden Cove",
+    "author_img": "https://i.ibb.co.com/4RQbfPDn/authorpng2.webp",
+    "author": "Liam Brooks",
+    "posted_date": "2025-03-28",
+    "reading_time": "12 min",
+    "hashtags": ["#mystery", "#nature", "#exploration"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/sp4vZY5j/coverpng1.png",
+    "title": "Mysteries of the Forest",
+    "author_img": "https://i.ibb.co.com/ymSC853D/autorpng-1.webp",
+    "author": "Ella Harper",
+    "posted_date": "2025-03-15",
+    "reading_time": "15 min",
+    "hashtags": ["#forest", "#wildlife", "#mystery"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co.com/bgNC7HZF/coverpng2.png",
+    "title": "Beyond the Horizon",
+    "author_img": "https://i.ibb.co.com/ymSC853D/autorpng-1.webp",
+    "author": "Noah Bennett",
+    "posted_date": "2025-04-05",
+    "reading_time": "10 min",
+    "hashtags": ["#adventure", "#journey", "#horizon"]
+  }
+]
