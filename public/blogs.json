@@ -6,7 +6,7 @@
     "author_img":"https://i.ibb.co.com/ymSC853D/autorpng-1.webp",
     "author": "Sophia Rivers",
     "posted_date": "2025-04-01",
-    "reading_time": "8 min",
+    "reading_time": 8,
     "hashtags": ["#space", "#adventure", "#stars"]
   },
   {
@@ -16,7 +16,7 @@
     "author_img": "https://i.ibb.co.com/4RQbfPDn/authorpng2.webp",
     "author": "Liam Brooks",
     "posted_date": "2025-03-28",
-    "reading_time": "12 min",
+    "reading_time": 12,
     "hashtags": ["#mystery", "#nature", "#exploration"]
   },
   {
@@ -26,7 +26,7 @@
     "author_img": "https://i.ibb.co.com/ymSC853D/autorpng-1.webp",
     "author": "Ella Harper",
     "posted_date": "2025-03-15",
-    "reading_time": "15 min",
+    "reading_time": 15,
     "hashtags": ["#forest", "#wildlife", "#mystery"]
   },
   {
@@ -36,7 +36,7 @@
     "author_img": "https://i.ibb.co.com/ymSC853D/autorpng-1.webp",
     "author": "Noah Bennett",
     "posted_date": "2025-04-05",
-    "reading_time": "10 min",
+    "reading_time": 10,
     "hashtags": ["#adventure", "#journey", "#horizon"]
   }
 ]
