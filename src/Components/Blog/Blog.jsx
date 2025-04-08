@@ -4,7 +4,7 @@ import { FaBookmark } from "react-icons/fa";
 const Blog = ({blog,handleBookMark,handleMarkAsRead}) => {
   // console.log(blog)
   // console.log(handleBookMark)
-  const {cover,title,author_img,author,reading_time} = blog;
+  const {cover,title,author_img,author,reading_time,id} = blog;
   return (
     <div>
       
@@ -24,11 +24,11 @@ const Blog = ({blog,handleBookMark,handleMarkAsRead}) => {
     <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
     <div className="flex">
       {
-        blog.hashtags.map(has => <p > {has} </p>)
+        blog.hashtags.map(has => <p key={has}> {has} </p>)
       }
     </div>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary" onClick={()=>handleMarkAsRead(reading_time)}>mark as read</button>
+      <button className="btn btn-primary" onClick={()=>handleMarkAsRead(reading_time,id)}>mark as read</button>
     </div>
   </div>
 </div>
