@@ -1,0 +1,17 @@
+1.How to import tailwind css
+1.how to add daisy ui
+
+
+what is uplifting 
+
+
+module flow 
+1.add navbar 
+2.fetch data in blogs
+3.create layout in app.jsx
+4.show blogs using blog.jsx
+5.showing hastag and added bookmark
+6.handle bookmark and showing it 
+7.handleMarkAsRed
+8.remove Book mark after read .
+10.surge delopyment 
